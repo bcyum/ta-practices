@@ -1,6 +1,6 @@
 package org.rd.lessons.lesson11.DepartmanOdev;
 
-public class Main {
+public class DepartmanTest {
     public static void main(String[] args) {
         Erkek erkekTakimLideri = new Erkek("Bilgin", "Özçalkan", "31/12/1976");
         Departman departman = new Departman(erkekTakimLideri);

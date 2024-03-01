@@ -1,0 +1,3 @@
+Bu bir test dosyası.
+Bu başka bir bilgi.
+Bu da örnek bir metin.
