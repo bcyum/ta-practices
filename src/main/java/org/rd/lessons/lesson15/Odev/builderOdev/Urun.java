@@ -34,7 +34,7 @@ public class Urun {
             return this;
         }
 
-        public Olusturucu fiyatAyarla(int fiyat) {
+        public Olusturucu fiyatAyarla(double fiyat) {
             urun.fiyat = fiyat;
             return this;
         }
